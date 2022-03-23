@@ -4,14 +4,14 @@ body {
   margin: 25px;
   background-color: rgb(240,240,240);
   font-family: arial, sans-serif;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
-  font-size: 35px;
+  font-size: 40px;
   font-weight: normal;
-  margin-top: 5px;
+  margin-top: 8px;
 }
 
 /* Applies to all elements with <... class="someclass"> specified. */
